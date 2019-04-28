@@ -1,11 +1,15 @@
 module.exports = {
   config: {
-    dir: 'src'
+    dir: "src"
   },
   files: [
     {
-      path: 'a.js',
-      content: '5'
+      path: "newFile.js",
+      content: "i am new file"
+    },
+    {
+      path: "css/newFile.css",
+      content: "i am new css file in css folder"
     }
   ]
 };
