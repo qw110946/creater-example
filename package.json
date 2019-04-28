@@ -1,0 +1,23 @@
+{
+  "name": "creater-example",
+  "version": "1.0.0",
+  "description": "creater-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ctr": "creater-cli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qw110946/creater-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qw110946/creater-example/issues"
+  },
+  "homepage": "https://github.com/qw110946/creater-example#readme",
+  "devDependencies": {
+    "creater-cli": "^0.1.4"
+  }
+}
