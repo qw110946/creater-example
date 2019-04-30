@@ -6,9 +6,9 @@ commander@^2.20.0:
   version "2.20.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.20.0.tgz#d58bb2b5c1ee8f87b0d340027e9e94e222c5a422"
 
-creater-cli@^0.1.5:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/creater-cli/-/creater-cli-0.1.5.tgz#ceeac57480148165c1c230df81d5bc445603dd78"
+creater-cli@0.1.6:
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/creater-cli/-/creater-cli-0.1.6.tgz#33aef30e34261a6220d005e33a13b534cee907a5"
   dependencies:
     commander "^2.20.0"
     fs-extra "^7.0.1"
